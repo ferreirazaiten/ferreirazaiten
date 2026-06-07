@@ -29,7 +29,6 @@
 
 ## Contato
 
-LinkedIn: seu-link
 Email: jgabrielfe.costa@gmail.com
 
 
