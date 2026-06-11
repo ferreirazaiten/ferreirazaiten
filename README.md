@@ -30,6 +30,7 @@
 ## Contato
 
 Email: jgabrielfe.costa@gmail.com
+Telefone: +55 (81) 98881-1010
 
 
 
