@@ -109,7 +109,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/ferreirazaiten/ferreirazaiten/main/assets/persona5.gif" width="500" alt="Persona 5 Take Your Heart GIF">
 </div>
-
-<h3 align="center">
-  "Take Your Time!"
-</h3>
