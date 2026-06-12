@@ -32,7 +32,7 @@
 
 ###
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ferreirazaiten/ferreirazaiten/main/assets/Persona5Kasumi.gif" width="400">
+  <img src="https://raw.githubusercontent.com/ferreirazaiten/ferreirazaiten/main/assets/Persona5Kasumi.gif" width="450" />
 </div>
 ## 🛠️ Tecnologias
 
