@@ -1,7 +1,7 @@
-<h1 align="center">Bem Vindos Phantom Thieves!</h1>
+<h1 align="center">Bem-vindos, Phantom Thieves!</h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ferreirazaiten/ferreirazaiten/main/assets/banner.jpg.jpg" width="100%">
+  <img src="https://raw.githubusercontent.com/ferreirazaiten/ferreirazaiten/main/assets/banner.jpg.jpg" width="100%" alt="Banner">
 </div>
 
 <br>
@@ -15,9 +15,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ferreirazaiten&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" height="170" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreirazaiten&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ferreirazaiten&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreirazaiten&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" height="170" alt="Top languages" />
 </div>
 
 ###
@@ -31,22 +30,24 @@
 🎯 Meu objetivo é evoluir constantemente como desenvolvedor e construir projetos cada vez mais completos.
 
 ###
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ferreirazaiten/ferreirazaiten/main/assets/Persona5Kasumi.gif" width="450" />
+  <img src="https://raw.githubusercontent.com/ferreirazaiten/ferreirazaiten/main/assets/Persona5Kasumi.gif" width="450" alt="Persona 5 Kasumi GIF" />
 </div>
+
+###
+
 ## 🛠️ Tecnologias
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python" height="60" />
-<img src="https://skillicons.dev/icons?i=javascript" height="60" />
-<img src="https://skillicons.dev/icons?i=git" height="60" />
-<img src="https://skillicons.dev/icons?i=github" height="60" />
-<img src="https://skillicons.dev/icons?i=html" height="60" />
-<img src="https://skillicons.dev/icons?i=css" height="60" />
-<img src="https://skillicons.dev/icons?i=cpp" height="60" />
-<img src="https://skillicons.dev/icons?i=vscode" height="60" />
-
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="VS Code" />
 </div>
 
 ###
@@ -60,9 +61,13 @@
 🔹 Jogo Bitsy "Question Coffe"
 
 ###
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ferreirazaiten/ferreirazaiten/main/assets/download.gif" width="400">
+  <img src="https://raw.githubusercontent.com/ferreirazaiten/ferreirazaiten/main/assets/download.gif" width="400" alt="Persona 5 GIF" />
 </div>
+
+###
+
 ## 🎯 Objetivos para 2026
 
 * Aprender Programação Orientada a Objetos
@@ -76,22 +81,22 @@
 
 <div align="center">
   <a href="mailto:jgabrielfe.costa@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 
-  <a href="www.linkedin.com/in/joão-gabriel-ferreira-costa-7a6792381">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/joão-gabriel-ferreira-costa-7a6792381">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
   <a href="https://github.com/ferreirazaiten">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferreirazaiten&theme=tokyonight&hide_border=true&background=000000" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferreirazaiten&theme=tokyonight&hide_border=true&background=000000" height="170" alt="GitHub streak" />
 </div>
 
 ###
@@ -101,8 +106,11 @@
 </p>
 
 ###
-<div align="center"> <img src="https://raw.githubusercontent.com/ferreirazaiten/ferreirazaiten/main/assets/persona5.gif" width="500"> </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ferreirazaiten/ferreirazaiten/main/assets/persona5.gif" width="500" alt="Persona 5 Take Your Heart GIF">
+</div>
 
 <h3 align="center">
- "Take Your Time!" 
+  "Take Your Time!"
 </h3>
