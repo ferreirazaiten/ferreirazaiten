@@ -29,7 +29,9 @@
 🎯 Meu objetivo é evoluir constantemente como desenvolvedor e construir projetos cada vez mais completos.
 
 ###
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ferreirazaiten/ferreirazaiten/main/assets/Persona5Kasumi.gif" width="400">
+</div>
 ## 🛠️ Tecnologias
 
 <div align="center">
