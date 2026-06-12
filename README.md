@@ -1,4 +1,4 @@
-<h1 align="center">Bem-vindos, Phantom Thieves!</h1>
+<h1 align="center">Bem Vindos Phantom Thieves!</h1>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ferreirazaiten/ferreirazaiten/main/assets/banner.jpg.jpg" width="100%" alt="Banner">
