@@ -53,7 +53,7 @@
 
 🔹 Tacta — Projeto voltado para acessibilidade de pessoas com deficiência auditiva
 
-🔹 Projetos acadêmicos desenvolvidos durante a graduação
+🔹 Jogo Bitsy "Question Coffe"
 
 ###
 
