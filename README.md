@@ -96,12 +96,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ferreirazaiten&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-
-###
-
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
