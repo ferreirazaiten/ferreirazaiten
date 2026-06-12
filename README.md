@@ -92,8 +92,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
-<div align="center"> <img src="https://raw.githubusercontent.com/ferreirazaiten/ferreirazaiten/main/assets/persona5.gif" width="500" alt="Persona 5 Take Your Heart GIF"> </div>
-###
+<div align="center"> <img src="https://raw.githubusercontent.com/ferreirazaiten/ferreirazaiten/main/assets/aoa.gif" width="500" alt="Persona 5 Take Your Heart GIF"> </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferreirazaiten&theme=tokyonight&hide_border=true&background=000000" height="170" alt="GitHub streak" />
