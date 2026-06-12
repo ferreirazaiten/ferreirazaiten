@@ -1,7 +1,7 @@
 <h1 align="center">Bem Vindos Phantom Thieves!</h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ferreirazaiten/ferreirazaiten/main/assets/banner.jpg.jpg" width="100%" alt="Banner">
+  <img src="https://raw.githubusercontent.com/ferreirazaiten/ferreirazaiten/main/assets/geral.jpg" width="100%" alt="Banner">
 </div>
 
 <br>
