@@ -58,7 +58,9 @@
 🔹 Jogo Bitsy "Question Coffe"
 
 ###
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ferreirazaiten/ferreirazaiten/main/assets/download.gif" width="400">
+</div>
 ## 🎯 Objetivos para 2026
 
 * Aprender Programação Orientada a Objetos
