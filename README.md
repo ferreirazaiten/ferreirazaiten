@@ -56,7 +56,7 @@
 
 🔹 Cadastro de Atletas em Arquivos
 
-🔹 Tacta — Projeto voltado para acessibilidade de pessoas com deficiência auditiva
+🔹 Tacta — Projeto voltado para acessibilidade de pessoas com deficiência visual
 
 🔹 Jogo Bitsy "Question Coffe"
 
